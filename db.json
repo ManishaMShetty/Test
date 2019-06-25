@@ -1,0 +1,19 @@
+{
+    "events": [
+        {
+            "title": "Release an App",
+            "date": "2019-06-15T21:00:00.000Z",
+            "id": "05abc-m5kgh-mmmn-0456"
+        },
+        {
+            "title": "Go on Holiday",
+            "date": "2019-07-08T00:00:09.000Z",
+            "id": "05abc-f5875-mmmn-0456"
+        },
+        {
+            "title": "Come back from Holiday",
+            "date": "2019-07-10T00:00:08.000Z",
+            "id": "05abc-fkj77-mmmn-0456"
+        }
+    ]
+}
